@@ -1,11 +1,11 @@
 ﻿:root {
   color-scheme: light;
   --tinta: #202a35;
-  --suave: #667383;
+  --suave: #596574;
   --papel: #f5f7f8;
   --cartao: #fff;
   --linha: #dce3e8;
-  --destaque: #b06d45;
+  --destaque: #8e5435;
   --sombra: 0 12px 34px #2333440d
 }
 * {
